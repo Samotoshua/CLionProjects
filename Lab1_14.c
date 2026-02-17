@@ -13,5 +13,7 @@ int main(void) {
         }
     }
     printf("%d\n", dobutok);
+
+
     return 0;
 }
