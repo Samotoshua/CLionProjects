@@ -20,7 +20,9 @@ int main() {
     for (int i = 0; i < 5; i++) {
         printf("%d ", A[i]);
     }
+
     printf("\n");
+
     for (int i = 0; i < 5; i++) {
         printf("%d ", B[i]);
     }
